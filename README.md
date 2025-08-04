@@ -47,8 +47,8 @@ IllegalDeforestation-and-LandEnchroachment-Detection/
 
 
 ## Status
-✅ Project folder initialized  
-🟡 Phase 1: Dataset collection and preprocessing
+*Project folder initialized*  
+*Phase 1: Dataset collection and preprocessing*
 
 ## Roadmap
 1. Dataset Collection (Satellite images + Encroachment labels)
