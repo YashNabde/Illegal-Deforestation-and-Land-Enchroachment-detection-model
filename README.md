@@ -47,4 +47,18 @@ IllegalDeforestation-and-LandEnchroachment-Detection/
 ├── README.md -You're reading it
 └── .gitignore -Ignore unnecessary files
 
->>>>>>> 134c7224e8e372b6ab84867a1e3a1bea69557084
+
+## Status
+✅ Project folder initialized  
+🟡 Phase 1: Dataset collection and preprocessing
+
+## Roadmap
+1. Dataset Collection (Satellite images + Encroachment labels)
+2. Preprocessing (Image slicing, normalization, georeferencing)
+3. Model Training (Object Detection or Semantic Segmentation)
+4. Model Evaluation (Accuracy, Precision, Recall, IOU)
+5. Deployment or Visualization
+
+##  Contribution
+Open to collaborators! Reach out via [LinkedIn](https://www.linkedin.com/in/yash-nabde/) or raise an issue.
+
