@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Illegal Deforestation and Land Encroachment Detection Model
 =======
 #  Illegal Deforestation & Land Encroachment Detection
