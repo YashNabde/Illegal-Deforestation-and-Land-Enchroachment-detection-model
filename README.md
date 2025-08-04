@@ -1,7 +1,5 @@
 
 # Illegal Deforestation and Land Encroachment Detection Model
-=======
-#  Illegal Deforestation & Land Encroachment Detection
 
 A computer vision-based project that detects illegal deforestation and land encroachment using satellite imagery and temporal change detection.
 
